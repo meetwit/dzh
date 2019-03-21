@@ -1,0 +1,13 @@
+.\objects\tim2.o: SRC\tim2.c
+.\objects\tim2.o: .\INC\tim2.h
+.\objects\tim2.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h
+.\objects\tim2.o: .\CMSIS\CM3\CoreSupport\core_cm3.h
+.\objects\tim2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\tim2.o: .\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h
+.\objects\tim2.o: .\INC\usart1.h
+.\objects\tim2.o: .\INC\usart2.h
+.\objects\tim2.o: .\INC\usart1.h
+.\objects\tim2.o: .\INC\usart3.h
+.\objects\tim2.o: .\INC\usart2.h
+.\objects\tim2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\tim2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h

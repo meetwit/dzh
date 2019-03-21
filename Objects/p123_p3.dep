@@ -1,0 +1,92 @@
+Dependencies for Project 'p123', Target 'p3': (DO NOT MODIFY !)
+F (.\SRC\mian.c)(0x5C937F68)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\mian.o --omf_browse .\objects\mian.crf --depend .\objects\mian.d)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\INC\tim2.h)(0x5C93739E)
+I (.\INC\usart1.h)(0x5C7E2708)
+I (.\INC\usart2.h)(0x5C7E2708)
+I (.\INC\usart3.h)(0x5C7E2708)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\math.h)(0x599EDB3E)
+I (.\zdyz\delay.h)(0x555AC61F)
+I (.\zdyz\sys.h)(0x550EC367)
+I (.\INC\dht11.h)(0x5C936A86)
+I (.\INC\adc.h)(0x5C937145)
+F (.\SRC\tim2.c)(0x5C937393)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\tim2.o --omf_browse .\objects\tim2.crf --depend .\objects\tim2.d)
+I (.\INC\tim2.h)(0x5C93739E)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\INC\usart1.h)(0x5C7E2708)
+I (.\INC\usart2.h)(0x5C7E2708)
+I (.\INC\usart3.h)(0x5C7E2708)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+F (.\SRC\usart1.c)(0x5C7E2869)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\usart1.o --omf_browse .\objects\usart1.crf --depend .\objects\usart1.d)
+I (.\INC\usart1.h)(0x5C7E2708)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\INC\usart2.h)(0x5C7E2708)
+I (.\INC\usart3.h)(0x5C7E2708)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+F (.\SRC\usart2.c)(0x5C7E2860)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\usart2.o --omf_browse .\objects\usart2.crf --depend .\objects\usart2.d)
+I (.\INC\usart2.h)(0x5C7E2708)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\INC\usart1.h)(0x5C7E2708)
+I (.\INC\usart3.h)(0x5C7E2708)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+F (.\SRC\usart3.c)(0x5C7E2850)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\usart3.o --omf_browse .\objects\usart3.crf --depend .\objects\usart3.d)
+I (.\INC\usart3.h)(0x5C7E2708)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\INC\usart1.h)(0x5C7E2708)
+I (.\INC\usart2.h)(0x5C7E2708)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x599EDB3C)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599EDB3C)
+F (.\SRC\dht11.c)(0x5C936A6F)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\dht11.o --omf_browse .\objects\dht11.crf --depend .\objects\dht11.d)
+I (.\INC\dht11.h)(0x5C936A86)
+I (.\zdyz\sys.h)(0x550EC367)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+I (.\zdyz\delay.h)(0x555AC61F)
+F (.\SRC\adc.c)(0x5C93759C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (.\INC\adc.h)(0x5C937145)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+F (.\zdyz\delay.c)(0x5C937F22)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (zdyz\delay.h)(0x555AC61F)
+I (zdyz\sys.h)(0x550EC367)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+F (.\zdyz\sys.c)(0x5C937F20)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\sys.o --omf_browse .\objects\sys.crf --depend .\objects\sys.d)
+I (zdyz\sys.h)(0x550EC367)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
+F (RTE\Device\STM32F103C8\RTE_Device.h)(0x5927DFA6)()
+F (RTE\Device\STM32F103C8\startup_stm32f10x_md.s)(0x5825386C)(--cpu Cortex-M3 -g --apcs=interwork -I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include--pd "__UVISION_VERSION SETA 526" --pd "_RTE_ SETA 1" --pd "STM32F10X_MD SETA 1"--list .\listings\startup_stm32f10x_md.lst --xref -o .\objects\startup_stm32f10x_md.o --depend .\objects\startup_stm32f10x_md.d)
+F (RTE\Device\STM32F103C8\system_stm32f10x.c)(0x5825386C)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --split_sections -I .\CMSIS\CM3\CoreSupport -I .\CMSIS\CM3\DeviceSupport\ST\STM32F10x -I .\INC -I .\zdyz-I.\RTE\Device\STM32F103C8-I.\RTE\_p3-IC:\Keil_v5\ARM\PACK\ARM\CMSIS\5.4.0\CMSIS\Core\Include-IC:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.3.0\Device\Include-D__UVISION_VERSION="526" -D_RTE_ -DSTM32F10X_MD-o .\objects\system_stm32f10x.o --omf_browse .\objects\system_stm32f10x.crf --depend .\objects\system_stm32f10x.d)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\stm32f10x.h)(0x4D783CB4)
+I (.\CMSIS\CM3\CoreSupport\core_cm3.h)(0x4D523B58)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5C3F1013)
+I (.\CMSIS\CM3\DeviceSupport\ST\STM32F10x\system_stm32f10x.h)(0x4D783CAA)
